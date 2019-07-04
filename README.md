@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bb080474-1b16-4084-8eba-8526b7ce9938/deploy-status)](https://app.netlify.com/sites/heroes-angular-app/deploys)
+
 # AngularApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.4.
